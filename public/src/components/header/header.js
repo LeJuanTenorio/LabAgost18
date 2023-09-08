@@ -14,7 +14,8 @@ class HeaderOne extends HTMLElement{
             this.shadowRoot.innerHTML = `
             <link rel="stylesheet" href"./src/components/header/header.css>
             <section>
-            <h1>${this.name}</h1>
+            <img src="https://cdn-cms.apify.com/letterboxd_cd1669e8ec.png"> </img>
+            <h1>mamaguevo</h1>
             </section>`;
         }
     }
